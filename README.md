@@ -14,8 +14,8 @@ Jean-Pierre Cheney
 
 ========================================================================================
 # INSTALLATION
-
-Lancement du programme python
+## Python/RaspBerry
+###Lancement du programme python
 ```
 cd /BLI/python
 python controleur.py
