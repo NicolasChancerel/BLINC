@@ -15,9 +15,11 @@ Jean-Pierre Cheney
 ========================================================================================
 # INSTALLATION
 
-Lancement du programme python :
-  cd /BLI/python
-  python controleur.py
+Lancement du programme python
+```
+cd /BLI/python
+python controleur.py
+```
 
 ========================================================================================
 # UTILISATION
